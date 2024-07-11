@@ -1,3 +1,7 @@
+[![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2343B02A.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
 # Selenium Real Estate Scraper
 
 ## Overview
