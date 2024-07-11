@@ -62,8 +62,6 @@ This Python-based web scraper is designed to extract property data from nehnutel
     ```bash
     python property_scraper.py
 
-
-
 ## Customization
 
 - **Scraping all pages:** Remove the line `last_page = 2` in the `scrape_data()` method to scrape all available pages.
